@@ -1,2 +1,2 @@
 # Malaria-diagnosis-using-deep-learning
-Developing a mobile based model for diagnosing Malaria.
+FRCNN implementation using Keras for object detection on plasmodium parasites.
